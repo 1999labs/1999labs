@@ -1,2 +1,2 @@
-# 1999labs
-Crypto-native creative studio connecting people, ideas and intelligence in unexpected ways
+## 1999labs
+Creative studio connecting people, ideas and intelligence in unexpected ways
